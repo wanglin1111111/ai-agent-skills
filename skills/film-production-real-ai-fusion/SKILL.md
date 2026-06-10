@@ -1,11 +1,11 @@
-# SKILL.md - AI影视制作实拍融合技能
+﻿# SKILL.md - AI影视制作实拍融合技能
 
 ---
-skill_name: "ai-film-production-real-ai-fusion"
-skill_version: "1.0.0"
-skill_author: "AutoClaw"
-skill_created: "2026-05-25"
-skill_description: "AI视频生成、实拍与AI融合、机械臂精准控制、多模态调优、虚拟空间重构"
+name: "ai-film-production-real-ai-fusion"
+version: "1.0.0"
+author: "AutoClaw"
+created: "2026-05-25"
+description: "AI视频生成、实拍与AI融合、机械臂精准控制、多模态调优、虚拟空间重构"
 ---
 
 ## 技能定位

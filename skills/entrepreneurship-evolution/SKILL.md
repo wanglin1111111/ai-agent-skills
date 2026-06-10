@@ -1,11 +1,11 @@
-# SKILL.md - AI产品创业决策与产品演进技能
+﻿# SKILL.md - AI产品创业决策与产品演进技能
 
 ---
-skill_name: "ai-product-entrepreneurship-evolution"
-skill_version: "1.0.0"
-skill_author: "AutoClaw"
-skill_created: "2026-05-24"
-skill_description: "AI产品创业决策逻辑、产品定位方法、功能设计原则、商业模式验证、增长策略演进"
+name: "ai-product-entrepreneurship-evolution"
+version: "1.0.0"
+author: "AutoClaw"
+created: "2026-05-24"
+description: "AI产品创业决策逻辑、产品定位方法、功能设计原则、商业模式验证、增长策略演进"
 ---
 
 ## 技能定位

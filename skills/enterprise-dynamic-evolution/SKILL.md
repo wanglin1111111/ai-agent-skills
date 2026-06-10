@@ -1,11 +1,11 @@
-# SKILL.md - AI企业动态演进与权重配置技能
+﻿# SKILL.md - AI企业动态演进与权重配置技能
 
 ---
-skill_name: "ai-enterprise-dynamic-evolution"
-skill_version: "1.0.0"
-skill_author: "AutoClaw"
-skill_created: "2026-05-24"
-skill_description: "AI企业持续动态演进、一号位OP特质识别、技术转化沉淀、多维权重配置、ToB落地方法论"
+name: "ai-enterprise-dynamic-evolution"
+version: "1.0.0"
+author: "AutoClaw"
+created: "2026-05-24"
+description: "AI企业持续动态演进、一号位OP特质识别、技术转化沉淀、多维权重配置、ToB落地方法论"
 ---
 
 ## 技能定位

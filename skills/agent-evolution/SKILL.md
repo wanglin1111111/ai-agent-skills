@@ -1,11 +1,11 @@
-# SKILL.md - AI Agent架构演进与自我进化技能
+﻿# SKILL.md - AI Agent架构演进与自我进化技能
 
 ---
-skill_name: "ai-agent-evolution-self-evolution"
-skill_version: "1.0.0"
-skill_author: "AutoClaw"
-skill_created: "2026-05-24"
-skill_description: "AI Agent架构演进、Harness框架本质、自我进化机制、多Agent协作、中国AI生态分析"
+name: "ai-agent-evolution-self-evolution"
+version: "1.0.0"
+author: "AutoClaw"
+created: "2026-05-24"
+description: "AI Agent架构演进、Harness框架本质、自我进化机制、多Agent协作、中国AI生态分析"
 ---
 
 ## 技能定位

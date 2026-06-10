@@ -1,11 +1,11 @@
-# SKILL.md - AI时代人文价值重估技能
+﻿# SKILL.md - AI时代人文价值重估技能
 
 ---
-skill_name: "ai-era-humanistic-value-reevaluation"
-skill_version: "1.0.0"
-skill_author: "AutoClaw"
-skill_created: "2026-05-25"
-skill_description: "AI时代人类价值位移、稀缺性转移、自我三层建构、独特性丰富性魅力、君子不器新诠释"
+name: "ai-era-humanistic-value-reevaluation"
+version: "1.0.0"
+author: "AutoClaw"
+created: "2026-05-25"
+description: "AI时代人类价值位移、稀缺性转移、自我三层建构、独特性丰富性魅力、君子不器新诠释"
 ---
 
 ## 技能定位

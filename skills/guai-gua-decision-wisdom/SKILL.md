@@ -1,11 +1,11 @@
-# SKILL.md - 夬卦决断智慧与组织治理技能
+﻿# SKILL.md - 夬卦决断智慧与组织治理技能
 
 ---
-skill_name: "guai-gua-decision-wisdom"
-skill_version: "1.0.0"
-skill_author: "AutoClaw"
-skill_created: "2026-05-25"
-skill_description: "易经夬卦决断智慧、组织治理原则、小人处置策略、团队团结方法、刚健和悦决策"
+name: "guai-gua-decision-wisdom"
+version: "1.0.0"
+author: "AutoClaw"
+created: "2026-05-25"
+description: "易经夬卦决断智慧、组织治理原则、小人处置策略、团队团结方法、刚健和悦决策"
 ---
 
 ## 技能定位

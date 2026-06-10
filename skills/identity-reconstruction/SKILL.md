@@ -1,11 +1,11 @@
-# SKILL.md - AI时代身份重构与职业边界重塑技能
+﻿# SKILL.md - AI时代身份重构与职业边界重塑技能
 
 ---
-skill_name: "ai-era-identity-reconstruction"
-skill_version: "1.0.0"
-skill_author: "AutoClaw"
-skill_created: "2026-05-25"
-skill_description: "AI时代人类身份重构、职业边界重塑、人机关系范式迁移、组织协同方式重定义、好奇心作为终极内核"
+name: "ai-era-identity-reconstruction"
+version: "1.0.0"
+author: "AutoClaw"
+created: "2026-05-25"
+description: "AI时代人类身份重构、职业边界重塑、人机关系范式迁移、组织协同方式重定义、好奇心作为终极内核"
 ---
 
 ## 技能定位

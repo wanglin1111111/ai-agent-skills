@@ -1,11 +1,11 @@
-# SKILL.md - AI驱动的游戏化教育设计技能
+﻿# SKILL.md - AI驱动的游戏化教育设计技能
 
 ---
-skill_name: "ai-gamified-education-design"
-skill_version: "1.0.0"
-skill_author: "AutoClaw"
-skill_created: "2026-05-25"
-skill_description: "从知识灌输到兴趣激活的教育范式迁移、糖里加药教学设计、AI个性化学习闭环、社会化学习场景构建"
+name: "ai-gamified-education-design"
+version: "1.0.0"
+author: "AutoClaw"
+created: "2026-05-25"
+description: "从知识灌输到兴趣激活的教育范式迁移、糖里加药教学设计、AI个性化学习闭环、社会化学习场景构建"
 ---
 
 ## 技能定位

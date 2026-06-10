@@ -1,11 +1,11 @@
-# SKILL.md - AI大模型演进与Agent时代技能
+﻿# SKILL.md - AI大模型演进与Agent时代技能
 
 ---
-skill_name: "ai-llm-evolution-agent-era"
-skill_version: "1.0.0"
-skill_author: "AutoClaw"
-skill_created: "2026-05-25"
-skill_description: "大模型技术演进、Agent时代来临、复杂任务建模、强化学习框架创新、多模态融合路径、创业建议"
+name: "ai-llm-evolution-agent-era"
+version: "1.0.0"
+author: "AutoClaw"
+created: "2026-05-25"
+description: "大模型技术演进、Agent时代来临、复杂任务建模、强化学习框架创新、多模态融合路径、创业建议"
 ---
 
 ## 技能定位
